@@ -1,0 +1,4 @@
+assets/
+*.sublime-project
+*.sublime-workspace
+*.exe
